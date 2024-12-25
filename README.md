@@ -10,7 +10,7 @@ MySQL is renowned for its reliability, scalability, and simplicity, making it a 
 
 - [Integer](https://github.com/kenkz447/learn-mysql/blob/main/schema/integer.md)
 - [Float and Double](https://github.com/kenkz447/learn-mysql/blob/main/schema/float-and-double.md)
-- [String](https://github.com/kenkz447/learn-mysql/blob/main/schema/string.md)
+- [Char and Varchar](https://github.com/kenkz447/learn-mysql/blob/main/schema/string.md)
 - [Binary](https://github.com/kenkz447/learn-mysql/blob/main/schema/binary.md)
 - [Text and Blob](https://github.com/kenkz447/learn-mysql/blob/main/schema/text.md)
 - [Enum and Set](https://github.com/kenkz447/learn-mysql/blob/main/schema/enum-and-set.md)
