@@ -8,11 +8,12 @@ MySQL is renowned for its reliability, scalability, and simplicity, making it a 
 
 **Data Types**: Choosing the right type for your data.
 
-- [Integer](https://github.com/kenkz447/learn-mysql/blob/main/schema/Integer.md)
-- [Float and Double](https://github.com/kenkz447/learn-mysql/blob/main/schema/Float_And_Double.md)
-- [String](https://github.com/kenkz447/learn-mysql/blob/main/schema/Strings.md)
-- [Binary](https://github.com/kenkz447/learn-mysql/blob/main/schema/Binary.md)
-- [Text and Blob](https://github.com/kenkz447/learn-mysql/blob/main/schema/Text.md)
+- [Integer](https://github.com/kenkz447/learn-mysql/blob/main/schema/integer.md)
+- [Float and Double](https://github.com/kenkz447/learn-mysql/blob/main/schema/float-and-double.md)
+- [String](https://github.com/kenkz447/learn-mysql/blob/main/schema/string.md)
+- [Binary](https://github.com/kenkz447/learn-mysql/blob/main/schema/binary.md)
+- [Text and Blob](https://github.com/kenkz447/learn-mysql/blob/main/schema/text.md)
+- [Enum and Set](https://github.com/kenkz447/learn-mysql/blob/main/schema/enum-and-set.md)
 
 **Database Design**: Structuring databases for performance and integrity.
 
