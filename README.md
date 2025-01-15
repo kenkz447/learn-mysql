@@ -14,6 +14,13 @@ MySQL is renowned for its reliability, scalability, and simplicity, making it a 
 - [Binary](https://github.com/kenkz447/learn-mysql/blob/main/schema/binary.md)
 - [Text and Blob](https://github.com/kenkz447/learn-mysql/blob/main/schema/text.md)
 - [Enum and Set](https://github.com/kenkz447/learn-mysql/blob/main/schema/enum-and-set.md)
+- [Json](https://github.com/kenkz447/learn-mysql/blob/main/schema/json.md)
+- [Date and time](https://github.com/kenkz447/learn-mysql/blob/main/schema/date.md)
+- [Boolean](https://github.com/kenkz447/learn-mysql/blob/main/schema/date.md)
+- [Ip and zip code](https://github.com/kenkz447/learn-mysql/blob/main/schema/ip-address-and-zip-code.md)
+- [Spatial](https://github.com/kenkz447/learn-mysql/blob/main/schema/spatial.md)
+- [NULL](https://github.com/kenkz447/learn-mysql/blob/main/schema/null.md)
+
 
 **Database Design**: Structuring databases for performance and integrity.
 
