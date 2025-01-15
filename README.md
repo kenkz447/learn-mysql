@@ -17,7 +17,6 @@ MySQL is renowned for its reliability, scalability, and simplicity, making it a 
 - [Json](https://github.com/kenkz447/learn-mysql/blob/main/schema/json.md)
 - [Date and time](https://github.com/kenkz447/learn-mysql/blob/main/schema/date.md)
 - [Boolean](https://github.com/kenkz447/learn-mysql/blob/main/schema/date.md)
-- [Ip and zip code](https://github.com/kenkz447/learn-mysql/blob/main/schema/ip-address-and-zip-code.md)
 - [Spatial](https://github.com/kenkz447/learn-mysql/blob/main/schema/spatial.md)
 - [NULL](https://github.com/kenkz447/learn-mysql/blob/main/schema/null.md)
 
